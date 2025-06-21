@@ -1,0 +1,1 @@
+additional materials to article https://blog.paramako.com/rust-audio-programming-oscillator-build-a-sine-wave-part-1
