@@ -1,2 +1,4 @@
 target/
-sine.wav
+*.wav
+Cargo.lock
+.DS_Store
