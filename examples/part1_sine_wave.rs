@@ -8,8 +8,7 @@ fn main() {
         sample_format: hound::SampleFormat::Int,
     };
 
-    let mut writer =
-        hound::WavWriter::create("sine.wav", spec).expect("Failed to create WAV file");
+    let mut writer = hound::WavWriter::create("sine.wav", spec).expect("Failed to create WAV file");
 
     let duration_secs = 4.0;
     let frequency = 440.0; // A4
