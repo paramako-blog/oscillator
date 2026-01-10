@@ -15,4 +15,5 @@ Code examples for the Oscillator series, part of [Rust Audio Programming](https:
 ```bash
 cargo run --example part1_sine_wave
 cargo run --example part2_frequency_changes
+cargo run --example part3_different_waveforms
 ```
