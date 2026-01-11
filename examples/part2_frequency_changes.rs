@@ -30,7 +30,7 @@ fn main() {
             5.0 => 659.25, // E5
             6.0 => 698.46, // F5
             7.0 => 783.99, // G5
-            _ => 880.0,    // A6
+            _ => 880.0,    // A5
         };
 
         let phase_increment = 2.0 * PI * freq_hz / sample_rate;
